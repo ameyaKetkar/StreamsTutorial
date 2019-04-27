@@ -26,8 +26,8 @@ import java.util.stream.IntStream;
  */
 class Tutorial{
 
-	public static String PATH_SONGS = "/Users/ameya/Documents/StreamsPlayGround/StreamsTutorial/resources/songs.csv";
-	public static String PATH_TAGS  = "/Users/ameya/Documents/StreamsPlayGround/StreamsTutorial/resources/tags.csv";
+	public static String PATH_SONGS = "~/resources/songs.csv";
+	public static String PATH_TAGS  = "~/resources/tags.csv";
 
 	public static List<Songs> songs = getSongs();
 	public static List<Tags> tags = getTags();
