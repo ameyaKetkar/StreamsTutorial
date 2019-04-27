@@ -8,6 +8,8 @@ Setting up Java 11 and Java REPL
 * A REPL for Java should appear.
 
 
-
+Setting up the Tutorial: 
 * When you clone this repository, in the resources folder you will find a tags.csv.zip file.
-Please unzip it. 
+* Please unzip it. 
+
+Note: I will be updating this repository until the Tuesday afternoon, so you might have to fetch the latest before FPC/CS 563 meeting. 
